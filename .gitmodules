@@ -1,0 +1,3 @@
+[submodule "Salmon/vendor/spdlog"]
+	path = Salmon/vendor/spdlog
+	url = https://github.com/gabime/spdlog
